@@ -11,31 +11,32 @@ new Vue({
         programs: [
           {
             id: 1,
-            name: 'Genshin impact',
-            description1: 'Gеnshin Impaсt 3.5',
-            description2: 'Acrepi v1.0.7',
-            description3: 'Updаte 07.03.2023',
-            image: 'https://media.discordapp.net/attachments/793077076906344470/1112005487769165904/0PDLOe0IYrlCpLHX88dv7m9vDR13CFrqRGmGPlXBPq8b30s3ID9UOtjk8Cjc5honJpU5iuJMVDZ-chPPlL0B3wgw16383.png',
-            downloadLink: 'program/String Remover.bat'
+            name: 'Genshin impact KOREPI',
+            description1: 'Gеnshin Impaсt 3.7',
+            description2: 'Korepi "WITHOUT HWID"',
+            description3: 'Updаte 31.05.2023',
+            image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113415900801007686/image.png',
+            downloadLink: 'program/Korepi.7z'
+
           },
           {
             id: 2,
-            name: 'Grand Theft Auto V',
-            description1: 'Описание программы 2',
-            description2: 'Описание программы 2',
-            description3: 'Описание программы 2',
-            image: 'https://media.discordapp.net/attachments/793077076906344470/1112005724424388618/P30maIcvD8djuIQ0xQF01rHXFdfrB9NW3JEr_hGj7mBJ_Wp4g7zHH0_ZtsmMnKgXUDI_whm-lcirBMmJyoMYsBsw16383.png',
-            downloadLink: 'https://example.com/program2.exe'
-          },
-          {
-            id: 3,
             name: 'AUTO TP PACK',
             description1: 'Пак для пассивного фарма гемов',
             description2: 'Пак для активногоф фарма гемов',
             description3: 'Пак для функции "CUSTOM TP"',
-            image: 'https://media.discordapp.net/attachments/793077076906344470/1112005760424095744/oaqv0X2KJTGqS7rmWJdmDdZYZKhKukJCxkoz24tci3NsGWzDLRWwRCquehtquBNOelI9utPmmHoOlURO3BEGYFYw16383.png',
-            downloadLink: 'https://cdn.discordapp.com/attachments/1076853104336703688/1113034541846765598/image.png'
-          }
+            image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113416375340367932/msedge_GzP88YPFUU.png',
+            downloadLink: 'program/Custom TP PACK.7z'
+          },          
+          {
+            id: 2,
+            name: 'SOON...',
+            description1: 'SOON...',
+            description2: 'SOON...',
+            description3: 'SOON...',
+            image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113416203839479819/msedge_dD2q4akpZ1.png',
+            downloadLink: 'SOON...'
+           }
 		  
           // Добавь остальные программы по аналогии
         ]
