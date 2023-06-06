@@ -16,7 +16,7 @@ new Vue({
             description2: 'Korepi "WITHOUT HWID"',
             description3: 'Updаte 31.05.2023',
             image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113415900801007686/image.png',
-            downloadLink: 'program/Korepi.7z'
+            downloadLink: 'program/Korepi.rar'
 
           },
           {
