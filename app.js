@@ -25,7 +25,7 @@ new Vue({
             description1: 'Пак для пассивного фарма гемов',
             description2: 'Пак для активногоф фарма гемов',
             description3: 'Пак для функции "CUSTOM TP"',
-            image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113416375340367932/msedge_GzP88YPFUU.png',
+            image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1118088936204550187/image.png',
             downloadLink: 'program/Custom TP PACK.7z'
           },          
           {
