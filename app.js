@@ -15,7 +15,7 @@ new Vue({
             description1: 'Gеnshin Impaсt 3.7',
             description2: 'Korepi "WITHOUT HWID"',
             description3: 'Updаte 31.05.2023',
-            image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113415900801007686/image.png',
+            image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1118089509427499028/image.png',
             downloadLink: 'program/Korepi.rar'
 
           },
@@ -34,7 +34,7 @@ new Vue({
             description1: 'SOON...',
             description2: 'SOON...',
             description3: 'SOON...',
-            image: 'https://cdn.discordapp.com/attachments/1090656041068396555/1113416203839479819/msedge_dD2q4akpZ1.png',
+            image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1118089587198279730/image.png',
             downloadLink: 'SOON...'
            }
 		  
