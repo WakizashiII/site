@@ -16,7 +16,7 @@ new Vue({
             description2: 'Korepi "WITHOUT HWID"',
             description3: 'Updаte 31.05.2023',
             image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1118090031249227787/image.png',
-            downloadLink: 'program/Korepi.7z'
+            downloadLink: 'https://cdn.discordapp.com/attachments/1118088905221210134/1121573436423159900/Korepi.7z'
 
           },
           {
@@ -26,7 +26,7 @@ new Vue({
             description2: 'Пак для активногоф фарма гемов',
             description3: 'Пак для функции "CUSTOM TP"',
             image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1118088936204550187/image.png',
-            downloadLink: 'program/Custom TP PACK.7z'
+            downloadLink: 'https://cdn.discordapp.com/attachments/1118088905221210134/1121573739470000128/TP_PACK.rar'
           },          
           {
             id: 2,
