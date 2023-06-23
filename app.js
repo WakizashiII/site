@@ -15,7 +15,7 @@ new Vue({
             description1: 'Gеnshin Impaсt 3.7',
             description2: 'Korepi "WITHOUT HWID"',
             description3: 'Updаte 31.05.2023',
-            image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1118090031249227787/image.png',
+            image: 'https://cdn.discordapp.com/attachments/1118088905221210134/1121766963547480124/crack.7z',
             downloadLink: 'program/injector.exe'
 
           },
